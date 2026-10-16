@@ -12,8 +12,6 @@
       "license": "MIT",
       "version": "1",
       "files": [
-        "/game-library/games/2048/.gitignore",
-        "/game-library/games/2048/.jshintrc",
         "/game-library/games/2048/CONTRIBUTING.md",
         "/game-library/games/2048/favicon.ico",
         "/game-library/games/2048/index.html",
@@ -61,7 +59,6 @@
       "license": "GPL-3.0-or-later",
       "version": "1",
       "files": [
-        "/game-library/games/hextris/.gitignore",
         "/game-library/games/hextris/a.js",
         "/game-library/games/hextris/CNAME",
         "/game-library/games/hextris/favicon.ico",
